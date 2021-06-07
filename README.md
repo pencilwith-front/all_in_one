@@ -1,5 +1,11 @@
 # 플러터 만능앱 개발
 
+# 멤버
+
+- 송재호 https://github.com/thruthesky  
+
+- 방지민 https://github.com/jimingoal
+
 # 만능앱 개발 스터디 목적 및 인원 모집
 
 - 앱 하나로 모든 것을 다 할 수 있도록 온갖 기능을 다 집어 넣은 만능앱 개발.
